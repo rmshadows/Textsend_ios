@@ -1,6 +1,13 @@
-# TextSend 局域网网页桥
+# TextSend 局域网网页桥（Web）
 
-只整理思路，尚未实现。原「iOS 计划」已改定位如下。
+只整理思路，尚未实现。原「iOS 计划」已改定位如下。仓库入口见 [`README.md`](README.md)。
+
+## 传送门
+
+- **Desktop**：[GitHub](https://github.com/rmshadows/TextSend_Desktop) · [Gitee](https://gitee.com/rmshadows/TextSend_Desktop)
+- **Android**：[GitHub](https://github.com/rmshadows/TextSend_Android) · [Gitee](https://gitee.com/rmshadows/TextSend_Android)
+- **uTools**：[GitHub](https://github.com/rmshadows/TextSend_Utool)
+- **iOS / 网页桥（Web）**：[GitHub](https://github.com/rmshadows/Textsend_ios)（本仓库；手机浏览器连电脑网页桥，非原生 App）
 
 **文档结构：** 先共用约定 → 再按三个安全档（Way）展开 → 每个 Way 下分 **PC（Desktop）** / **uTools**。  
 （备选结构是「先按端再按 A/B/C」；因三档共用同一套网页与 API，差异主要在传输与证书，**按 Way 分更清晰**，端差异放在子节。）
